@@ -4,6 +4,7 @@ Simple Script to get mp3 files from YouTube playlists
 # Prerequisite
 
 1) pytube -> pip install pytube
+2) moviepy -> pip install moviepy
 
 # How to Use
 
